@@ -1,4 +1,4 @@
-# 개인과제_스파르타 던전 (Text 게임) 만들기
+# 개인과제_스파르타 던전 (Text 게임) 만들기(미완성)
 
 ### ✨Things i did :
 - ShowGameStartScene() 함수를 만들어 게임 시작 씬 생성.
